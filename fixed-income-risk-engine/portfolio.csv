@@ -1,0 +1,101 @@
+cusip,issuer,sector,rating,coupon,maturity_years,ytm,face_value,position
+IZZQY72WX,Costco Wholesale,Consumer,A+,4.338,9.5,5.015,500000,23
+ZIOYKL1CQ,IBM Corp,Technology,A-,7.479,10.0,5.09,2000000,9
+2UBTXCXAP,Merck & Co,Healthcare,A+,4.384,5.9,4.942,2000000,17
+D5EM2VAJE,Evergy Inc,Utilities,BBB,2.625,5.4,5.432,1000000,17
+ZP08J3TRP,Abbott Laboratories,Healthcare,A-,3.476,7.8,5.178,500000,11
+XAJI0Y6DP,Goldman Sachs Group,Financials,A,3.203,2.2,5.54,2000000,3
+PGB7R3OCW,Amazon.com Inc,Consumer,AA,2.821,2.4,5.12,1000000,5
+FAO72KZ02,Qualcomm Inc,Technology,A-,4.677,7.3,5.143,1000000,9
+U1GSPK9P3,McDonald's Corp,Consumer,BBB+,4.585,9.8,5.508,1000000,13
+08YG0JV1V,HCA Healthcare,Healthcare,BB+,6.579,9.8,6.518,500000,14
+FNFHOLQC3,Kinder Morgan,Energy,BBB,6.234,5.1,5.838,500000,21
+ALY8OZCYW,AbbVie Inc,Healthcare,BBB+,6.249,2.8,5.86,2000000,6
+RE8QJNV8Z,Pfizer Inc,Healthcare,A,2.901,8.2,5.122,500000,21
+3KX7EEDTJ,Verizon Communications,Communication,BBB+,5.947,6.8,5.352,2000000,23
+UZZPQK51F,JPMorgan Chase,Financials,A+,3.528,5.4,4.902,1000000,6
+DD4V30T9N,Citigroup,Financials,BBB+,6.562,6.4,5.616,1000000,21
+34DXTAD1I,Texas Instruments,Technology,A+,4.647,5.3,5.114,1000000,4
+C8D1WJCIT,Home Depot,Consumer,A,4.247,3.3,5.37,1000000,4
+871YZOYN6,Microsoft Corp,Technology,AAA,3.363,5.6,4.558,1000000,3
+3TV3I12VJ,PPL Corp,Utilities,BBB,7.431,9.9,5.739,1000000,8
+4SJ6BW3BM,Comcast Corp,Communication,A-,7.389,3.0,5.3,2000000,17
+G72OY0IFZ,Walt Disney Co,Communication,A-,2.213,5.1,5.348,500000,9
+GATJ9TZE5,Tenet Healthcare,Healthcare,B+,6.8,5.9,8.602,1000000,18
+FPMVXPJ4H,Parker Hannifin,Industrials,A-,4.658,5.1,5.198,1000000,21
+TPAC56T4U,T-Mobile US,Communication,BB+,2.701,3.2,6.67,1000000,4
+XN0GUO4KH,ExxonMobil Corp,Energy,AA-,5.337,8.3,4.833,1000000,17
+VIHCWI64C,Alphabet Inc,Technology,AA+,5.679,3.9,4.77,2000000,7
+TMTTQLGZU,Honeywell International,Industrials,A,6.265,3.9,5.03,1000000,18
+3QK2IAGL5,Netflix Inc,Communication,BB+,3.535,9.7,6.797,1000000,24
+IUC039TEX,Apple Inc,Technology,AA+,2.908,9.6,4.806,2000000,16
+2Y9V86WZS,Valero Energy,Energy,BBB,5.013,8.6,5.486,2000000,18
+9DOM5IGQP,Intel Corp,Technology,A+,3.374,4.2,5.18,500000,17
+5RBW2ZLAO,General Motors Financial,Consumer,BB+,6.628,3.8,6.36,1000000,6
+LURTP0LZJ,Baxter International,Healthcare,BBB,2.664,4.0,5.57,1000000,6
+Z3NX39RBS,Raytheon Technologies,Industrials,BBB+,6.783,6.7,5.503,500000,19
+C5WI6FQJJ,Emerson Electric,Industrials,A,6.425,2.1,5.415,2000000,20
+F0T0PVN9E,BlackRock Inc,Financials,AA-,6.157,5.9,4.762,500000,23
+9T7E8G8JD,Fox Corp,Communication,BBB,6.007,5.5,5.59,1000000,22
+IHAIR4COW,ConocoPhillips,Energy,A,5.83,3.6,5.35,1000000,10
+CXLL4ZKLO,Discovery Inc,Communication,BBB-,3.626,5.2,5.726,500000,16
+C5O7UUBCX,Oracle Corp,Technology,BBB+,3.74,6.5,5.385,500000,24
+FY6452H2Z,Phillips 66,Energy,BBB+,5.066,5.7,5.306,1000000,7
+LVXWQZXEB,Exelon Corp,Utilities,BBB+,7.478,2.3,5.575,500000,10
+6HID25OWF,Charter Communications,Communication,BB,6.755,9.4,6.864,1000000,3
+TPV60VAIY,Lowe's Companies,Consumer,BBB+,5.229,8.9,5.249,2000000,11
+U0DK0GET8,Duke Energy,Utilities,BBB+,7.024,6.2,5.328,1000000,18
+Q14J1RIPZ,Marathon Petroleum,Energy,BBB,3.847,3.9,5.8,500000,7
+NAM148P0T,Williams Companies,Energy,BBB,3.213,6.8,5.512,1000000,16
+AT9MX2X18,Johnson & Johnson,Healthcare,AAA,2.112,3.6,4.68,500000,7
+XEQBNHL1N,Devon Energy,Energy,BBB-,6.576,8.0,5.79,500000,18
+8UT0CVS4F,Broadcom Inc,Technology,BBB,2.441,9.7,5.507,500000,22
+MKFAZZ81S,Truist Financial,Financials,BBB+,5.439,2.9,5.815,2000000,22
+XF7KZORQQ,Boeing Co,Industrials,BBB-,3.048,3.2,6.16,2000000,7
+HNF877VRE,US Bancorp,Financials,A-,7.419,4.9,5.245,500000,4
+VMWWYZX4W,NextEra Energy,Utilities,A-,5.555,9.2,5.232,1000000,4
+SEMCIKPTK,AT&T Inc,Communication,BBB,6.439,9.9,5.729,500000,24
+8K52QC1IY,Southern Company,Utilities,BBB+,4.186,7.4,5.574,1000000,5
+GE4QXXVA2,Entergy Corp,Utilities,BBB,2.693,3.9,5.82,500000,5
+J7XVG0FN9,Wells Fargo,Financials,BBB+,5.063,7.1,5.651,1000000,4
+2ATQYYV37,Dominion Energy,Utilities,BBB,3.286,2.9,5.575,2000000,20
+MKZA3OA52,3M Company,Industrials,A-,7.008,9.8,5.358,1000000,10
+5IQVNB4GH,Medtronic plc,Healthcare,A,3.872,8.4,5.104,2000000,3
+PHR62GDSW,Chevron Corp,Energy,AA,6.501,4.7,4.785,2000000,12
+7KYHQIN9N,Consolidated Edison,Utilities,A-,5.547,9.2,5.072,1000000,11
+FJFC2V37P,Target Corp,Consumer,A,3.673,5.7,5.186,1000000,19
+9E1V2ISQP,Walmart Inc,Consumer,AA,7.445,8.9,4.779,2000000,22
+5J2O7S3KK,Caterpillar Inc,Industrials,A,7.494,6.7,5.233,500000,17
+FYVNVQJT7,Charles Schwab,Financials,A,2.63,7.4,5.264,1000000,23
+GCX1945NQ,Bank of America,Financials,A-,2.895,8.7,5.257,500000,24
+3A5QBSWRP,Ford Motor Credit,Consumer,BB+,3.469,2.4,6.55,1000000,17
+RNY20479T,Pioneer Natural Resources,Energy,BBB+,5.255,9.3,5.663,500000,5
+ZDFKBLCMP,Deere & Company,Industrials,A,4.266,4.0,5.11,500000,8
+IBLJH75LX,Morgan Stanley,Financials,A,7.03,5.2,5.236,500000,11
+9E6GBPS3Y,ViacomCBS,Communication,BBB-,6.054,9.5,5.765,1000000,16
+6AF58C2JW,Lockheed Martin,Industrials,A-,2.442,5.2,5.256,2000000,20
+Y4LYK83TQ,Starbucks Corp,Consumer,BBB,3.778,4.5,5.915,1000000,19
+05UIRODXM,Cisco Systems,Technology,AA-,6.751,5.3,4.754,2000000,23
+5EQY08P0F,American Electric Power,Utilities,BBB+,2.545,5.3,5.554,2000000,16
+NLZ15BCW7,General Electric,Industrials,BBB+,6.107,10.0,5.52,500000,23
+SGIOTIRZQ,Becton Dickinson,Healthcare,BBB+,3.618,2.1,5.785,2000000,10
+O57P6BKLD,Goldman Sachs Group,Financials,A,2.851,6.1,5.229,500000,6
+MUEKIPU1W,JPMorgan Chase,Financials,A+,5.062,7.4,5.014,2000000,25
+JGZLMA5UO,Apple Inc,Technology,AA+,5.482,3.1,4.79,500000,19
+HPMNZ1UDB,Microsoft Corp,Technology,AAA,5.398,3.3,4.69,1000000,17
+XRPJ1EPKY,AT&T Inc,Communication,BBB,5.669,5.9,5.402,500000,15
+9BH811KER,ExxonMobil Corp,Energy,AA-,2.711,5.4,4.912,2000000,10
+S43C5BA75,Johnson & Johnson,Healthcare,AAA,5.154,6.6,4.724,1000000,12
+EAL2W37D4,Amazon.com Inc,Consumer,AA,5.239,3.9,4.92,500000,15
+50H2CWTG1,Boeing Co,Industrials,BBB-,7.27,4.8,6.07,500000,10
+DJGF1C8WQ,NextEra Energy,Utilities,A-,5.187,6.5,5.385,2000000,23
+9L8LPQW2V,Bank of America,Financials,A-,2.408,4.8,5.35,1000000,4
+C3C54WSQT,Cisco Systems,Technology,AA-,6.927,8.3,4.873,2000000,23
+GVS8Q349D,Verizon Communications,Communication,BBB+,2.215,7.2,5.672,1000000,17
+SVN7N1YBW,Chevron Corp,Energy,AA,3.813,4.7,4.885,2000000,15
+K0X65MUFM,Pfizer Inc,Healthcare,A,5.842,9.7,5.197,500000,22
+ZDUXLEZ89,Walmart Inc,Consumer,AA,2.514,9.3,4.823,2000000,14
+AL8M1G9FK,Caterpillar Inc,Industrials,A,4.792,8.3,5.273,2000000,19
+BM1ENF313,Duke Energy,Utilities,BBB+,4.407,3.3,5.63,1000000,24
+Z8V12II82,Morgan Stanley,Financials,A,3.067,9.2,5.222,1000000,12
+2SPFHV5BR,Intel Corp,Technology,A+,7.139,5.0,5.07,2000000,6

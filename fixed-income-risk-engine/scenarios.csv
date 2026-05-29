@@ -1,0 +1,13 @@
+scenario_name,rate_shock_bps,spread_shock_bps,description
+Base,0,0,Current market conditions
+Rate+50,50,0,Rates up 50bps (mild tightening)
+Rate+100,100,0,Rates up 100bps (moderate tightening)
+Rate+200,200,0,Rates up 200bps (aggressive tightening)
+Rate-50,-50,0,Rates down 50bps (mild easing)
+Spread+50,0,50,Spread widening 50bps (credit stress)
+Spread+100,0,100,Spread widening 100bps (risk-off)
+Spread+200,0,200,Spread widening 200bps (credit crunch)
+Taper_Tantrum,100,75,2013-style: rates up + spread widening
+GFC_Stress,150,300,GFC-style severe credit shock
+COVID_Shock,-50,200,COVID-style: rates down + spread blow-out
+Soft_Landing,-25,-25,Rates ease + spreads tighten
